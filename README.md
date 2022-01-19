@@ -1,7 +1,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Myself Bhavil Ahuja.
-I have interest in coding and I am currently practicing DSA.
-I am also learning the skills of Full Stack Web Development and Video Editing..
+I am a Web Development enthusiast having the skills of backend development.
+I am currently learning Python and I want to ace Machine Learning.
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavil-Ahuja&theme=react">
