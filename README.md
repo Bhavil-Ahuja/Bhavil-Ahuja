@@ -2,9 +2,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </div>
-Myself Bhavil Ahuja.
-I am a Web Development enthusiast having the skills of backend development.
-I am currently learning Python and I want to ace Machine Learning.
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavil-Ahuja&theme=react">
