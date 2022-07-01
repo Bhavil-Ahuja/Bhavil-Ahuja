@@ -1,7 +1,6 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-  # Hello, folks!
-</div>
+# Hello, folks!
+<br>
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Myself Bhavil Ahuja.
 I am a Web Development enthusiast having the skills of backend development.
 I am currently learning Python and I want to ace Machine Learning.
