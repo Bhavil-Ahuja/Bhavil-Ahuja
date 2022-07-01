@@ -1,4 +1,4 @@
-# Hello, folks!
+<b align="center">Hello, folks!</b>
 <div align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </div>
